@@ -16,7 +16,7 @@ async function getWeatherData(){
           getdata(data)
      }catch(err){
         console.log('error')
-        alert('check spelling')
+        alert('check spellings')
         map.src="";
      }
 }
