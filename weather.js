@@ -2,7 +2,7 @@ let key = "44c186ac7c279f3d5bf54f63cc9e9666";
 
 let container = document.getElementById('container')
 
-let map = document.getElementById('gmap_canvas')
+let map = document.getElementById('gmap')
 
 
 async function getWeatherData(){
